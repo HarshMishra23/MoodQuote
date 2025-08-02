@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MoodQuote App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>MoodQuote</h1>
+    <p class="tagline">Choose your mood and get a quote!</p>
+
+    <div class="mood-buttons">
+      <button data-mood="happy">😊</button>
+      <button data-mood="sad">😢</button>
+      <button data-mood="neutral">😐</button>
+      <button data-mood="angry">😠</button>
+      <button id="toggle-theme">🌓</button>
+    </div>
+
+    <div class="quote-box">
+      <p id="quote">Choose a mood to get started!</p>
+    </div>
+
+    <div class="actions">
+      <button id="new-quote">New Quote</button>
+      <button id="save-quote">Save</button>
+      <button id="copy-quote">Copy</button>
+    </div>
+
+    <div class="add-quote">
+      <input type="text" id="custom-quote" placeholder="Add your custom quote here..." />
+      <button id="add-custom-quote">Add</button>
+    </div>
+
+    <button id="show-favorites">Show Favorites</button>
+    <ul id="favorites-list"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
