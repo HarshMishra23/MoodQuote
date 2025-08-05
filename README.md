@@ -33,7 +33,7 @@
 ---
 
 ## Demo | Netlify
-https://warm-druid-e3e04e.netlify.app/
+https://incandescent-capybara-ccf199.netlify.app/
 
 ## 🚀 Technologies Used
 
