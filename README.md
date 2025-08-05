@@ -1,4 +1,11 @@
-# MoodQuote Web App 🌈
+# Hi, I'm Harsh Mishra! 👋
+
+## 🚀 I'm a full-stack developer...
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Project Title - 
+
+## MoodQuote Web App 🌈
 
 **MoodQuote** is a lightweight and interactive web app that provides inspirational quotes based on your current mood. Whether you're happy, sad, neutral, or angry — this app delivers a quote to match your feelings. You can also save your favorite quotes, copy them, and even add your own custom quotes.
 
@@ -16,11 +23,17 @@
 
 ---
 
+## Average time to complete
+#### 4 hrs
+
 ## 🖼️ Preview
 
-![Screenshot](image.png)
+![alt](./image.png)
 
 ---
+
+## Demo | Netlify
+https://warm-druid-e3e04e.netlify.app/
 
 ## 🚀 Technologies Used
 
@@ -40,3 +53,12 @@ MoodQuote/
 ├── script.js # Core JS logic (quotes, storage, etc.)
 ├── image.png
 └── README.md # Project documentation
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to improve this project, feel free to submit a pull request or open an issue for discussion.
+
+👨‍💻 Author
+Harsh Mishra
+📧 harshmishra0068@gmail.com
+🌐 GitHub: HarshMishra23
